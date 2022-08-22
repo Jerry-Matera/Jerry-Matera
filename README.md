@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jerry-Matera
+- 👀 I’m interested in Opportunities in Android Development
+- 🌱 I’m currently learning Flutter and Elixir
+- 💞️ I’m looking to collaborate on Aweome Mobile App Projects
