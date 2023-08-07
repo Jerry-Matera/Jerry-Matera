@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jerry-Matera
+- 👋 Hi, I’m Jerry Okoth
 - 👀 I’m interested in Opportunities in Android Development
-- 🌱 I’m currently learning Flutter and Elixir
-- 💞️ I’m looking to collaborate on Aweome Mobile App Projects
+- 💞️ I’m looking to collaborate on Awesome Mobile App Projects
+- Learning Jetpack Compose and Backend development with Spring Framework
